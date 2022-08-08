@@ -1,6 +1,6 @@
-# Aula 04 e 05 - Projeto Final de Curso 1
+# Aula 04 a 10 - Projeto Final de Curso 1
 
-> Aula 01/09/2022 e 08/09/2022
+> Aula 01/09/2022 a 24/11/2022
 > 
 >  *Projeto de Pesquisa*
 
@@ -104,6 +104,7 @@ Capítulo VI – Anexos e Apêndices
 
 Apesar de não ser comum a existência de anexos e apêndices em Projetos de Pesquisa, pode ser necessário que o pesquisador necessite se apropriar de algo que enriqueça sua pesquisa e anexar ao trabalho, Ou criar, desenvolver, construir algo que não caiba na estrutura do projeto, porém que também seja proveitoso para o contexto do trabalho, seja para avaliadores do projeto, seja para a composição da pesquisa em si, inseri-lo como um apêndice, disponibilizando informações que contribuirão com apresentação da pesquisa.
 
+[livro_int_rsl_pp.pdf](https://github.com/marcoswagner-commits/tcc/files/9284153/livro_int_rsl_pp.pdf)
 
 
 
