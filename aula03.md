@@ -16,8 +16,6 @@ Trata-se de um conjunto de macros ou marcações para o processador de textos Te
 
 O objectivo do LaTeX é que o autor se possa distanciar da apresentação visual do trabalho e assim concentrar-se no seu conteúdo. Possui formas de lidar com bibliografias, citações, formatos de páginas, referências e tudo mais que não seja relacionado com conteúdo do documento em si.
 
-latex_00
-
 O autor depara-se com um paradigma em que em vez de lidar com conceitos visuais lida com conceitos lógicos, e consequentemente mais independentes da apresentação, como por exemplo Capítulos, Secções,Resumos, Partes e tabelas, permitindo no entanto que haja liberdade para que o utilizador, se assim o desejar, possa declarar o seu próprio esquema de formatação.
 
 Ao contrário dos sistemas WYSIWYG, o conceito do LaTeX é visualizar a apresentação do resultado final do texto apenas após a preparação do mesmo, evitando assim distracções quanto à forma durante a preparação do conteúdo.
@@ -25,8 +23,6 @@ Ao contrário dos sistemas WYSIWYG, o conceito do LaTeX é visualizar a apresent
 Como foi dito, o LaTeX não é algo imutável, e como tal suporta formas de estilizar e formatar os documentos como bem entendermos. Para isso serve-se de classes e pacotes que determinam o estilo e a formatação do documento bem como outras funcionalidades especificas. Os muitos pacotes criados para o LaTeX são essenciais para que os utilizadores do sistema tenham maior liberdade na criação dos documentos. Muitos pacotes nem sempre adicionam novas funcionalidades, mas modificam o tratamento padrão dado a certas funções, criando mais diversidade de apresentação visual para o universo dos documentos produzidos em LaTeX. Os pacotes podem ser obtidos através da CTAN.
 
 Depois de produzido o documento é possível obtê-lo em diversos formatos entre eles os formatos PDF,PS e HTML.
-
-
 
 VANTAGENS E DESVANTAGENS
 
@@ -52,25 +48,18 @@ A aprendizagem é mais difícil que em programas WYSIWYG, pois embora a estrutur
 
 [Tutorial Latex](https://pt.overleaf.com/learn/latex/Tutorials)
 
-### O que é?
+## Overleaf (https://www.overleaf.com)
 
-#### Primeiros passos...
+Overleaf is a startup and social enterprise that builds modern collaborative authoring tools to help make science and research faster, more open and more transparent.
 
-[![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
+Overleaf’s market-leading collaboration technology is now in use by over ten million researchers, students, and teachers in institutions, labs, and industry worldwide.
 
-💻:[Apresentação](https://prezi.com/p/gqrgrnfzbjjw/?present=1)
+:shipit: Modelo e padrão?
 
-####  O vídeo abaixo mostra uma exposição completa sobre pesquisa científica
+[Modelo_Projeto_Pesquisa_UFJ_BCC.zip](https://github.com/marcoswagner-commits/tcc/files/9283927/Modelo_Projeto_Pesquisa_UFJ_BCC.zip)
 
-🥇:[![material complementar aula02](https://user-images.githubusercontent.com/81576640/183476041-9bc36d98-14ac-475c-8845-a29f2ac41497.png)](https://www.youtube.com/watch?v=VqcttlfbeIk)
 
-:shipit: O que é?
-
-![O que é](https://user-images.githubusercontent.com/81576640/183476816-004e39f3-ab7b-492c-9ad6-71e9019c78e5.png)
-
-:shipit: Como começar?
-
-![Como começar?](https://user-images.githubusercontent.com/81576640/183475089-042c76cf-4bd8-4ca6-9718-7d2497f3385a.png)
+![Overleaf + Latex](https://user-images.githubusercontent.com/81576640/183479625-7a871d6d-6500-45ab-8a48-024920018de6.png)
 
 
 
