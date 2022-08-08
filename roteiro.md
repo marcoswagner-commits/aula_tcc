@@ -4,7 +4,7 @@
 
 [Planejamento do Semestre](https://github.com/marcoswagner-commits/tcc/files/9281684/Planejamento_Semestre_2022_1_PFC1.pdf)
 
-[Material do Curso - Livro de Metodologia](https://github.com/marcoswagner-commits/tcc/files/9281712/livro_metodologia.pdf)
+[Material do Curso - Livro de Metodologia](https://github.com/marcoswagner-commits/tcc/files/9284612/livro_completo.pdf)
 
 [Manual do PFC_2022.pdf](https://github.com/marcoswagner-commits/tcc/files/9281932/Manual.do.PFC_2022.pdf)
 
