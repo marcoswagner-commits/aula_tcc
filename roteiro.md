@@ -105,43 +105,22 @@ Apresentar, detalhar, exemplificar e construir habilidades e competências relac
 - << AGOSTO >>
 - Roteiro específico da Aula Inaugural  - 11/08/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
 - [Roteiro específico da Aula02 - 18/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula02.md)
-- [Roteiro específico da Aula03 - 16/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
-- [Roteiro específico da Aula04 - 17/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula03 - 25/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
+- [Roteiro específico da Aula04 - 01/09/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+
 - Roteiro específico da Aula de Apresentação do Modelo Conceitual  - 23/08/2022 *
 -  //////////////////////////// INÍCIO DO BACK-END ///////////////////////////////////////////////////////
-- [Roteiro específico da Aula05 - 24/08/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula05.md)
-- [Roteiro específico da Aula06 - 30/08/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula06.md)
-- [Roteiro específico da Aula07 - 31/08/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula07.md)
 
 
 - << SETEMBRO >>
-- [Roteiro específico da Aula08 - 06/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula08.md)
-- [Roteiro específico da Aula09 - 13/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula09.md)
-- [Roteiro específico da Aula10 - 14/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula10.md)
-- [Roteiro específico da Aula11 - 20/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula11.md)
-- [Roteiro específico da Aula12 - 21/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula12.md)
-- [Roteiro específico da Aula13 - 27/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula13.md)
-- [Roteiro específico da Aula14 - 28/09/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula14.md)
+
 
 - << OUTUBRO >>
-- Roteiro específico da Aula de Apresentação de Trabalho  - 04/12/2022 * (Avaliação do Backend - fase 1) *
-- [Roteiro específico da Aula15 - 05/10/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula15.md)
-- [Roteiro específico da Aula16 - 11/10/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula16.md)
-- [Roteiro específico da Aula - 18/10/2022](aula17.md) - [CONEPE](https://conepe.ufj.edu.br)
-- [Roteiro específico da Aula - 19/10/2022](aula18.md) - [CONEPE](https://conepe.ufj.edu.br)
-- [Roteiro específico da Aula17 - 25/10/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula19.md)
-- [Roteiro específico da Aula18 - 26/10/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula20.md)
 
 - << NOVEMBRO >>
-- [Roteiro específico da Aula21 - 01/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula21.md)
-- Roteiro específico da Aula de Apresentação de Trabalho  - 08/11/2022 * (Avaliação do Backend - fase 2) *
-- //////////////////////////// INÍCIO DO FRONT-END ///////////////////////////////////////////////////////
-- [Roteiro específico da Aula22 - 09/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula22.md)
-- [Roteiro específico da Aula23 - 16/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula23.md)
-- [Roteiro específico da Aula24 - 22/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula24.md)
-- [Roteiro específico da Aula25 - 23/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula25.md)
-- [Roteiro específico da Aula26 - 29/11/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula26.md)
+- 24/11/2022 - Submissão dos Projetos de Pesquisa. *
+
 
 - << DEZEMBRO >>
-- Roteiro específico da Aula de Apresentação de Trabalho  - 06/12/2022 * (Avaliação do FrontEnd com Integração) *
-- Roteiro específico da Aula de Apresentação de Trabalho  - 07/12/2022 * (Avaliação do FrontEnd com Integração) *
+- 01/12/2022 - Submissão de Vídeo (Prévias das apresentações). 
+- Defesas dos Projetos de Pesquisa por Bancas Avaliadoras – 70% da avaliação da disciplina
