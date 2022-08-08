@@ -109,6 +109,8 @@ Apesar de não ser comum a existência de anexos e apêndices em Projetos de Pes
 [Apresentação](https://prezi.com/p/ebe_nl_orilx/?present=1)
 
 
-https://www.youtube.com/watch?v=vsw02o3paig
 
 
+####  O vídeo abaixo mostra uma exposição completa sobre pesquisa científica
+
+🥇:[![material complementar aula04](https://user-images.githubusercontent.com/81576640/183476041-9bc36d98-14ac-475c-8845-a29f2ac41497.png)](https://www.youtube.com/watch?v=vsw02o3paig)
