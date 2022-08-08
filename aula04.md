@@ -44,51 +44,51 @@ Capítulo III – Metodologia
 A metodologia em um Projeto de Pesquisa preocupa-se tanto com os aspectos técnicos de execução específicos da área como com a respectiva classificação da pesquisa. No entanto, além destes aspectos, o avaliador/leitor de um Projeto de Pesquisa pode também, por meio da metodologia, conhecer a forma como foi realizada a revisão de literatura, e, especialmente neste caso, por sugerir uma Revisão Sistemática de Literatura (RSL). É recomendável que na metodologia seja apresentada de forma resumida a RSL,’ com seus principais módulos (protocolo e condução).
 Portanto, a metodologia se estabelece nestas três partes: a) Revisão de Literatura; b) Classificação da Pesquisa; c) Procedimentos, técnicas e métodos específicos.
 
-A- Revisão de Literatura
+  A- Revisão de Literatura
 
-Mesmo sendo algum tipo de revisão (narrativa ou integrativa) que não seja sistematizada, alguns itens devem ser inseridos neste tópico. Porém esta abordagem, apresentada neste material, sugere fortemente o uso de uma metodologia sistematizada e altamente rigorosa, que, neste caso, somente a revisão sistemática de literatura se adequa. Os itens a serem inseridos são: 
+  Mesmo sendo algum tipo de revisão (narrativa ou integrativa) que não seja sistematizada, alguns itens devem ser inseridos neste tópico. Porém esta abordagem, apresentada neste material, sugere fortemente o uso de uma metodologia sistematizada e altamente rigorosa, que, neste caso, somente a revisão sistemática de literatura se adequa. Os itens a serem inseridos são: 
 
-1.Questões de Pesquisa. As questões elaboradas em relação ao tema, a classificação destas questões e os objetivos/justificativas;
-2. Estratégias de Busca. Os termos, as strings e as máquinas de busca utilizadas na RSL;
-3. Seleção e extração dos resultados;
-Análise e conclusões em relação a RSL.
+  1.Questões de Pesquisa. As questões elaboradas em relação ao tema, a classificação destas questões e os objetivos/justificativas;
+  2. Estratégias de Busca. Os termos, as strings e as máquinas de busca utilizadas na RSL;
+  3. Seleção e extração dos resultados;
+  Análise e conclusões em relação a RSL.
 
-B. Classificação da Pesquisa
+  B. Classificação da Pesquisa
 
-A classificação apresenta os gêneros de pesquisa, detalhando, de forma descritiva, os classificatórios quanto à natureza, procedimentos, objeto e abordagem. 
+  A classificação apresenta os gêneros de pesquisa, detalhando, de forma descritiva, os classificatórios quanto à natureza, procedimentos, objeto e abordagem. 
 
-1. Quanto à natureza
+  1. Quanto à natureza
 
-– Teórica. Dita como conceitual, procura rever teorias ou formular novas ideias, parâmetros teórico-doutrinários, conceitos.
-– Metodológica. Destina-se a redimensionar novos procedimentos de investigação, modos inovadores de construir ciência, transformação de metodologias tradicionais, introdução de novas técnicas de se conceber o objeto de estudo.
-– Empírica. Dedica-se a mensurar a realidade. Considera fatores sociais, políticos e econômicos na análise. Em outras palavras, parte de constatações empíricas ou da realidade social para solucionar o problema da pesquisa. Além disso, formula observações do real e propõe transformações do mesmo enquanto objeto de investigação.
-– Prática. Embora semelhante à empírica, difere-se desta por se voltar a intervenções concretas no ambiente político, jurídico ou sociocultural. Transformações durante o trajeto da investigação ou análises que proponham novos rumos para a realidade social são os objetivos desse gênero.
+  – Teórica. Dita como conceitual, procura rever teorias ou formular novas ideias, parâmetros teórico-doutrinários, conceitos.
+  – Metodológica. Destina-se a redimensionar novos procedimentos de investigação, modos inovadores de construir ciência, transformação de metodologias tradicionais, introdução de novas técnicas de se conceber o objeto de estudo.
+  – Empírica. Dedica-se a mensurar a realidade. Considera fatores sociais, políticos e econômicos na análise. Em outras palavras, parte de constatações empíricas ou da realidade social para solucionar o problema da pesquisa. Além disso, formula observações do real e propõe transformações do mesmo enquanto objeto de investigação.
+  – Prática. Embora semelhante à empírica, difere-se desta por se voltar a intervenções concretas no ambiente político, jurídico ou sociocultural. Transformações durante o trajeto da investigação ou análises que proponham novos rumos para a realidade social são os objetivos desse gênero.
 
-2. Quanto aos objetivos
+  2. Quanto aos objetivos
 
-Pesquisa exploratória. Proporcionar maior familiaridade com o problema. Levantamento bibliográfico ou entrevistas, pesquisa bibliográfica ou estudo de caso.
-Pesquisa descritiva. Fatos são observados, registrados, analisados, classificados e interpretados, sem interferência do pesquisador. Uso de técnicas padronizadas de coleta de dados (questionário e observação sistemática).
-Pesquisa explicativa. Identifica fatores determinantes para a ocorrência dos fenômenos. Ciências naturais – método experimental; Ciências Sociais – método observacional.
+  Pesquisa exploratória. Proporcionar maior familiaridade com o problema. Levantamento bibliográfico ou entrevistas, pesquisa bibliográfica ou estudo de caso.
+  Pesquisa descritiva. Fatos são observados, registrados, analisados, classificados e interpretados, sem interferência do pesquisador. Uso de técnicas padronizadas de coleta de dados (questionário e observação sistemática).
+  Pesquisa explicativa. Identifica fatores determinantes para a ocorrência dos fenômenos. Ciências naturais – método experimental; Ciências Sociais – método observacional.
 
-3. Quanto aos procedimentos
+  3. Quanto aos procedimentos
 
-– Pesquisa de campo. Observação e coleta de dados diretamente no local da ocorrência dos fatos.
-– Pesquisa de fonte documental. Pesquisa bibliográfica e documental.
+  – Pesquisa de campo. Observação e coleta de dados diretamente no local da ocorrência dos fatos.
+  – Pesquisa de fonte documental. Pesquisa bibliográfica e documental.
 
-4. Quanto ao objeto
+  4. Quanto ao objeto
 
-– Pesquisa bibliográfica/documental. Elaborada a partir de material já publicado (livros de quaisquer espécies, artigos de periódicos).
-– Pesquisa de laboratório, Pesquisador procura refazer as condições de um fenômeno a ser estudado, para observá-lo sob controle.
-– Pesquisa de campo. Pesquisador constrói um modelo da realidade, definindo formas de observá-la, formas de acesso a esse campo, os participantes e o campo da pesquisa.
+  – Pesquisa bibliográfica/documental. Elaborada a partir de material já publicado (livros de quaisquer espécies, artigos de periódicos).
+  – Pesquisa de laboratório, Pesquisador procura refazer as condições de um fenômeno a ser estudado, para observá-lo sob controle.
+  – Pesquisa de campo. Pesquisador constrói um modelo da realidade, definindo formas de observá-la, formas de acesso a esse campo, os participantes e o campo da pesquisa.
 
-5. Quanto à forma de abordagem
+  5. Quanto à forma de abordagem
 
-Pesquisa quantitativa. Traduz em números as opiniões e informações para serem classificadas e analisadas. Utilizam-se técnicas estatísticas.
-Pesquisa qualitativa. É descritiva. As informações obtidas não podem ser quantificáveis. Os dados obtidos são analisados indutivamente. A interpretação dos fenômenos e a atribuição de significados são básicas no processo de pesquisa qualitativa.
+  Pesquisa quantitativa. Traduz em números as opiniões e informações para serem classificadas e analisadas. Utilizam-se técnicas estatísticas.
+  Pesquisa qualitativa. É descritiva. As informações obtidas não podem ser quantificáveis. Os dados obtidos são analisados indutivamente. A interpretação dos fenômenos e a atribuição de significados são básicas no processo de pesquisa qualitativa.
 
-C. Procedimentos, técnicas e métodos
+  C. Procedimentos, técnicas e métodos
 
-Neste item/seção deve-se demonstrar metodologicamente como serão alcançados os objetivos. Geralmente tem-se como caminho a explicitação dos objetivos específicos apresentados na Introdução. Se nesta seção (Introdução), os objetivos específicos apresentam "o que", aqui deve-se apresentar "o como". É preciso ter clareza que existem diferenças entre estratégias e métodos. Na maioria das vezes, as estratégias são caminhos comuns já bem consolidados e estabelecidos e que não precisam de uma justificativa ou análise aprofundada. Por exemplo, a escolha de uma plataforma (MAC OS, Linux, Windows), nem sempre terá influência na condução da pesquisa ou construção do produto, portanto, trata-se apenas de uma estratégia. No entanto, se for a comparação de desempenho de uma abordagem qualquer em que a plataforma tem influência, isto torna-se um método a analisar. Naturalmente, prevê-se que anteriormente, nos objetivos específicos, tenha sido apresentado, por exemplo, "...definir o Sistema Operacional na construção da abordagem..." e aqui, nesta seção, tenha o complemento ("como"). de forma geral têm-se os métodos operacionais que serão utilizados para alcançar os objetivos específicos. As plataformas utilizadas, as linguagens ou paradigmas de programação (lógico/funcional ou orientado a objetos), frameworks, engines etc.
+  Neste item/seção deve-se demonstrar metodologicamente como serão alcançados os objetivos. Geralmente tem-se como caminho a explicitação dos objetivos específicos apresentados na Introdução. Se nesta seção (Introdução), os objetivos específicos apresentam "o que", aqui deve-se apresentar "o como". É preciso ter clareza que existem diferenças entre estratégias e métodos. Na maioria das vezes, as estratégias são caminhos comuns já bem consolidados e estabelecidos e que não precisam de uma justificativa ou análise aprofundada. Por exemplo, a escolha de uma plataforma (MAC OS, Linux, Windows), nem sempre terá influência na condução da pesquisa ou construção do produto, portanto, trata-se apenas de uma estratégia. No entanto, se for a comparação de desempenho de uma abordagem qualquer em que a plataforma tem influência, isto torna-se um método a analisar. Naturalmente, prevê-se que anteriormente, nos objetivos específicos, tenha sido apresentado, por exemplo, "...definir o Sistema Operacional na construção da abordagem..." e aqui, nesta seção, tenha o complemento ("como"). de forma geral têm-se os métodos operacionais que serão utilizados para alcançar os objetivos específicos. As plataformas utilizadas, as linguagens ou paradigmas de programação (lógico/funcional ou orientado a objetos), frameworks, engines etc.
 
 Capítulo IV – Cronograma
 
@@ -104,8 +104,11 @@ Capítulo VI – Anexos e Apêndices
 
 Apesar de não ser comum a existência de anexos e apêndices em Projetos de Pesquisa, pode ser necessário que o pesquisador necessite se apropriar de algo que enriqueça sua pesquisa e anexar ao trabalho, Ou criar, desenvolver, construir algo que não caiba na estrutura do projeto, porém que também seja proveitoso para o contexto do trabalho, seja para avaliadores do projeto, seja para a composição da pesquisa em si, inseri-lo como um apêndice, disponibilizando informações que contribuirão com apresentação da pesquisa.
 
+
+## Conteúdo sobre RSL e Projeto de Pesquisa
 [Introdução + Revisão de Literatura + Projeto de Pesquisa](https://github.com/marcoswagner-commits/tcc/files/9284153/livro_int_rsl_pp.pdf)
 
+## Apresentação sobre RSL e Projeto de Pesquisa
 [Apresentação](https://prezi.com/p/ebe_nl_orilx/?present=1)
 
 
