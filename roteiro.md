@@ -104,9 +104,9 @@ Apresentar, detalhar, exemplificar e construir habilidades e competências relac
 ### Aulas
 - << AGOSTO >>
 - Roteiro específico da Aula Inaugural  - 11/08/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- [Roteiro específico da Aula02 - 18/08/2022]()
-- [Roteiro específico da Aula03 - 16/08/2022]()
-- [Roteiro específico da Aula04 - 17/08/2022]()
+- [Roteiro específico da Aula02 - 18/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula02.md)
+- [Roteiro específico da Aula03 - 16/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
+- [Roteiro específico da Aula04 - 17/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 - Roteiro específico da Aula de Apresentação do Modelo Conceitual  - 23/08/2022 *
 -  //////////////////////////// INÍCIO DO BACK-END ///////////////////////////////////////////////////////
 - [Roteiro específico da Aula05 - 24/08/2022](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/aula05.md)
