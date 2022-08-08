@@ -131,7 +131,7 @@ Apresentar, detalhar, exemplificar e construir habilidades e competências relac
 -  //////////////////////////// Metodologia - Procedimentos ////////////////////////////////////////////////////////
 - [Roteiro específico da Aula10 - 10/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 -  //////////////////////////// Cronograma ////////////////////////////////////////////////////////////////////////
-- [Roteiro específico da Aula10 - 17/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula11 - 17/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 - 24/11/2022 - Submissão dos Projetos de Pesquisa. *
 
 
