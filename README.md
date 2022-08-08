@@ -6,6 +6,10 @@
 
 [Material do Curso - Livro de Metodologia](https://github.com/marcoswagner-commits/tcc/files/9281712/livro_metodologia.pdf)
 
+[Manual do PFC_2022.pdf](https://github.com/marcoswagner-commits/tcc/files/9281932/Manual.do.PFC_2022.pdf)
+
+[Info_Gerais_PFC_2022.pdf](https://github.com/marcoswagner-commits/tcc/files/9281931/Info_Gerais_PFC_2022.pdf)
+
 
 ### 1.1 Conteúdos
 1.1.1. Introdução
