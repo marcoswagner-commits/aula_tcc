@@ -1,6 +1,6 @@
 # Aula 04 a 10 - Projeto Final de Curso 1
 
-> Aula 01/09/2022 a 24/11/2022
+> Aula 06/08/2023 até ...
 > 
 >  *Projeto de Pesquisa*
 
