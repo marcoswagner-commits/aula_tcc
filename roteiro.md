@@ -4,9 +4,9 @@
 
 [Planejamento do Semestre](Planejamento_Semestre_2023_PFC1.pdf)
 
-[Material do Curso - Livro de Metodologia]()
+[Material do Curso - Livro de Metodologia](livro_metodologia.pdf)
 
-[Manual do PFC_2022.pdf](Manual do PFC_2023.pdf)
+[Manual do PFC_2022.pdf](Manual_do_PFC_2023.pdf)
 
 [Info_Gerais_PFC_2022.pdf](Info_Gerais_PFC_2023.pdf)
 
