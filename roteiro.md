@@ -2,13 +2,13 @@
 
 [Plano de Ensino](Plano_Ensino_PFC1_2023.pdf)
 
-[Planejamento do Semestre]()
+[Planejamento do Semestre](Planejamento_Semestre_2023_PFC1.pdf)
 
 [Material do Curso - Livro de Metodologia]()
 
-[Manual do PFC_2022.pdf]()
+[Manual do PFC_2022.pdf](Manual do PFC_2023.pdf)
 
-[Info_Gerais_PFC_2022.pdf]()
+[Info_Gerais_PFC_2022.pdf](Info_Gerais_PFC_2023.pdf)
 
 [Aceite do Orientador](Aceite_Orientador.pdf)
 
