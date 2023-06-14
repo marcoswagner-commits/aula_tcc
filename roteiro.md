@@ -1,6 +1,6 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 
-[Plano de Ensino]()
+[Plano de Ensino](Plano_Ensino_PFC1_2023.pdf)
 
 [Planejamento do Semestre]()
 
