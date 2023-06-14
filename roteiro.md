@@ -1,14 +1,14 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 
-[Plano de Ensino](https://github.com/marcoswagner-commits/tcc/files/9281685/Plano_Ensino_PFC2_2022_1.pdf)
+[Plano de Ensino]()
 
-[Planejamento do Semestre](https://github.com/marcoswagner-commits/tcc/files/9281684/Planejamento_Semestre_2022_1_PFC1.pdf)
+[Planejamento do Semestre]()
 
-[Material do Curso - Livro de Metodologia](https://github.com/marcoswagner-commits/tcc/files/9284612/livro_completo.pdf)
+[Material do Curso - Livro de Metodologia]()
 
-[Manual do PFC_2022.pdf](https://github.com/marcoswagner-commits/tcc/files/9281932/Manual.do.PFC_2022.pdf)
+[Manual do PFC_2022.pdf]()
 
-[Info_Gerais_PFC_2022.pdf](https://github.com/marcoswagner-commits/tcc/files/9281931/Info_Gerais_PFC_2022.pdf)
+[Info_Gerais_PFC_2022.pdf]()
 
 
 ### 1.1 Conteúdos
