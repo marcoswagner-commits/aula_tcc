@@ -10,6 +10,8 @@
 
 [Info_Gerais_PFC_2022.pdf]()
 
+[Aceite do Orientador](Aceite_Orientador.pdf)
+
 
 ### 1.1 Conteúdos
 1.1.1. Introdução
