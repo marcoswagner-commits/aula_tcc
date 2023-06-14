@@ -1,6 +1,6 @@
 # Aula 03 - Projeto Final de Curso 1
 
-> Aula 25/08/2022
+> Aula 29/06/2023
 > 
 >  
 >  *Plataforma OverLeaf - Modelo Latex*
