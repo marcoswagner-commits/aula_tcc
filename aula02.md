@@ -1,6 +1,6 @@
 # Aula 02 - Projeto Final de Curso 1
 
-> Aula 18/08/2022
+> Aula 26/06/2023
 > 
 >  
 >  *O que é uma Pesquisa*
