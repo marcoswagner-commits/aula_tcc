@@ -102,39 +102,34 @@ Apresentar, detalhar, exemplificar e construir habilidades e competências relac
 - [Atividade 4 - Prévia da Apresentação Final - vídeo]()
 
 ### Aulas
+- << JUNHO >>
+- Roteiro específico da Aula Inaugural  - 15/06/2023 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
+- [Roteiro específico da Aula02 - 22/06/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula02.md)
+- [Roteiro específico da Aula03 - 29/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
+
+- << JULHO >>
+- [Roteiro específico da Aula04 - 07/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula05 - 14/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+
 - << AGOSTO >>
-- Roteiro específico da Aula Inaugural  - 11/08/2022 * (Apresentação do Planejamento - Plano de Ensino - Metodologias) *
-- [Roteiro específico da Aula02 - 18/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula02.md)
-- [Roteiro específico da Aula03 - 25/08/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
+-  //////////////////////////// Revisão Sistemática de Literatura /////////////////////////////////////////////////
+- [Roteiro específico da Aula06 - 03/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+-  //////////////////////////// Introdução ////////////////////////////////////////////////////////////////////////
+- [Roteiro específico da Aula07 - 10/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+-  //////////////////////////// Referencial Teórico ////////////////////////////////////////////////////////////////
+- [Roteiro específico da Aula08 - 17/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+-  Roteiro específico da Aula de Apresentação da RSL e Introdução  - 24/08/2023 
+-  //////////////////////////// Metodologia - RSL //////////////////////////////////////////////////////////////////
+- [Roteiro específico da Aula09 - 31/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+
 
 - << SETEMBRO >>
-- [Roteiro específico da Aula04 - 01/09/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-- [Roteiro específico da Aula05 - 08/09/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-
--  //////////////////////////// Revisão Sistemática de Literatura /////////////////////////////////////////////////
-- [Roteiro específico da Aula06 - 15/09/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-
--  //////////////////////////// Introdução ////////////////////////////////////////////////////////////////////////
-- [Roteiro específico da Aula07 - 29/09/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-
-- << OUTUBRO >>
--  //////////////////////////// Referencial Teórico ////////////////////////////////////////////////////////////////
-- [Roteiro específico da Aula08 - 06/10/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
--  Roteiro específico da Aula de Apresentação da RSL e Introdução  - 13/10/2022 e 20/10/2022 
--  //////////////////////////// Metodologia - RSL //////////////////////////////////////////////////////////////////
-- [Roteiro específico da Aula09 - 27/10/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-
-
-- << NOVEMBRO >>
 -  //////////////////////////// Metodologia - Classificação ////////////////////////////////////////////////////////
-- [Roteiro específico da Aula10 - 03/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula10 - 14/09/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 -  //////////////////////////// Metodologia - Procedimentos ////////////////////////////////////////////////////////
-- [Roteiro específico da Aula10 - 10/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula10 - 21/09/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 -  //////////////////////////// Cronograma ////////////////////////////////////////////////////////////////////////
-- [Roteiro específico da Aula11 - 17/11/2022](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-- 24/11/2022 - Submissão dos Projetos de Pesquisa. *
-
-
-- << DEZEMBRO >>
-- 01/12/2022 - Submissão de Vídeo (Prévias das apresentações). 
-- Defesas dos Projetos de Pesquisa por Bancas Avaliadoras – 70% da avaliação da disciplina
+- [Roteiro específico da Aula11 - 28/09/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- 28/09/2023 - Submissão dos Projetos de Pesquisa. *
+- - << OUTUBRO >>
+- 28/09 A 08/10 - Defesas dos Projetos de Pesquisa por Bancas Avaliadoras – 70% da avaliação da disciplina
