@@ -110,8 +110,8 @@ Apresentar, detalhar, exemplificar e construir habilidades e competências relac
 - [Roteiro específico da Aula03 - 29/08/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula03.md)
 
 - << JULHO >>
-- [Roteiro específico da Aula04 - 07/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
-- [Roteiro específico da Aula05 - 14/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula04 - 06/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
+- [Roteiro específico da Aula05 - 13/07/2023](https://github.com/marcoswagner-commits/tcc/tree/documentos/aula04.md)
 
 - << AGOSTO >>
 -  //////////////////////////// Revisão Sistemática de Literatura /////////////////////////////////////////////////
